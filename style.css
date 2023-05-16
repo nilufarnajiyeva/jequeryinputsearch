@@ -1,0 +1,25 @@
+#save{
+    width: 90px;
+    height: 35px;
+    background-color: #e0c0e1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+#search{
+    width: 90px;
+    height: 35px;
+    background-color: #ac8c99;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;}
+    input{
+        width: 150px;
+        height: 30px;
+       border: 1px solid rgb(125, 177, 158);
+        padding: 2px;
+    }
+    input:focus {
+        outline: none;
+        border: 1px solid black;
+    }
